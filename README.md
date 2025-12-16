@@ -1,57 +1,112 @@
-<h1 align="center">👋 Hi, I'm Sahil Vala</h1>
+<div align="center">
+  <h1>
+    Hi, I'm <a href="https://github.com/sahil02802">Sahil Vala</a>!
+    <img
+      src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+      width="30px"
+    />
+  </h1>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=BCA+Student;Aspiring+Full-Stack+Web+Developer;Building+Modern+Web+Applications"
-    alt="Typing SVG"
-  />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=BCA+Student;Aspiring+Full-Stack+Web+Developer;Building+Modern+Web+Applications;MERN+Stack+Enthusiast"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
-<h3 align="center">
-  BCA Student | Full-Stack Web Developer
-</h3>
+<br />
 
-<hr>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center">
+        <h2>🚀 About Me</h2>
+        <ul>
+          <li>
+            💻 I am a <b>BCA Student</b> passionate about Full-Stack
+            Engineering.
+          </li>
+          <li>🛠️ Currently building projects using the <b>MERN Stack</b>.</li>
+          <li>
+            🎯 Focus: Writing <b>clean, scalable, and maintainable</b> code.
+          </li>
+          <li>🧠 Interest: <b>UI/UX Design</b> & Backend Logic.</li>
+          <li>⚡ Fun fact: I love solving complex logical challenges!</li>
+          <li>
+            📫 Reach me at:
+            <a href="mailto:sahil02817@gmail.com"
+              ><b>sahil02817@gmail.com</b></a
+            >
+          </li>
+        </ul>
+      </td>
+      <td valign="center">
+        <img
+          src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+          width="350"
+          alt="Coding GIF"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<ul>
-  <li>💻 I am learning and building modern web projects using HTML, CSS, JavaScript, and the MERN stack.</li>
-  <li>🎯 I focus on writing clean, structured, and maintainable code.</li>
-  <li>📚 I continuously improve my skills through hands-on projects and self-learning.</li>
-  <li>🧠 I am interested in front-end development, UI/UX design, and full-stack technologies.</li>
-  <li>📫 Reach me at: <b>sahil02817@gmail.com</b></li>
-  <li>⚡ Fun fact: I enjoy refining UI designs and solving logical coding challenges.</li>
-</ul>
-
-<hr>
+<hr />
 
 <h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,tailwind,git,github,vscode&perline=6"
+  />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,bootstrap" />
-</p>
+<br />
 
-<hr>
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <a href="https://github.com/sahil02802">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=sahil02802&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8"
+    />
+  </a>
+  <a href="https://github.com/sahil02802">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil02802&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8"
+    />
+  </a>
+</div>
 
-<h2 align="center">📌 Currently Focused On</h2>
+<br />
 
-<p align="center">
-  🔹 Strengthening full-stack fundamentals <br>
-  🔹 Building real-world MERN projects <br>
-  🔹 Improving code quality and project structure
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sahil02802&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&currStreakLabel=38BDF8"
+    alt="Sahil's Streak"
+  />
+</div>
 
-<hr>
+<hr />
 
 <h2 align="center">🤝 Let's Connect</h2>
-
 <p align="center">
   <a href="mailto:sahil02817@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/sahil02802">
+    <img
+      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sahil02802?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/sahil02802?label=Follow%20Me&style=for-the-badge&logo=github">
-  </a>
-</p>
+<div align="center">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    width="100%"
+  />
+</div>
