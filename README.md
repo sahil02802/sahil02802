@@ -11,7 +11,7 @@ BCA Student | Aspiring Full-Stack Web Developer
   <li>🎯 I focus on writing clean, structured, and readable code</li>
   <li>📚 I enjoy learning modern web technologies through hands-on projects</li>
   <li>🧠 I am interested in front-end design and full-stack development</li>
-  <li>📫 Reach me at: <b>your.sahil02817@gmail.com</b></li>
+  <li>📫 Reach me at: <b>sahil02817@gmail.com</b></li>
   <li>⚡ Fun fact: I enjoy improving UI designs and solving coding challenges</li>
 </ul>
 
