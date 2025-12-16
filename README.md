@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-BCA Student | Aspiring Full-Stack Web Developer
+BCA Student | Full-Stack Web Developer
 </h3>
 
 <hr>
