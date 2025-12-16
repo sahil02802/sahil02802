@@ -45,7 +45,7 @@ BCA Student | Full-Stack Web Developer
   <a href="mailto:sahil02817@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/sahil02802">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
 </p>
