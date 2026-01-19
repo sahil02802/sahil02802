@@ -83,8 +83,8 @@
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sahil02802&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&currStreakLabel=38BDF8"
-    alt="Sahil's Streak"
+    src="https://streak-stats.demolab.com/?user=sahil02802&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&currStreakLabel=38BDF8"
+    alt="Sahil's GitHub Streak"
   />
 </div>
 
